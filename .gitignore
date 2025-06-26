@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Flask
+.flaskenv
+instance/
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Testing
+.pytest_cache/
+htmlcov/
+.tox/
+
+# MyPy
+.mypy_cache/
+
+# Database
+*.sqlite3
+
+# Temporary files
+tmp/
+
+# Uploads (if applicable)
+uploads/
+
+# Celery (if applicable)
+celerybeat-schedule
