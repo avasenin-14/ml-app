@@ -4,5 +4,5 @@ diffusers
 torch
 torchvision
 torchaudio
-transformers
 accelerate
+wheel

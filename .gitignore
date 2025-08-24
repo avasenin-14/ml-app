@@ -46,5 +46,8 @@ tmp/
 # Uploads (if applicable)
 uploads/
 
+# Downloaded archives
+*.zip
+
 # Celery (if applicable)
 celerybeat-schedule
